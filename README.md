@@ -29,5 +29,6 @@ The challenges are available [here](https://adventofcode.com/2021/)!
 21. [Day 21 Writeup](./Day%2021/README.md), [Code](./Day%2021/day21.c)
 22. [Day 22 Writeup](./Day%2022/README.md), [Code](./Day%2022/day22.c)
 23. [Day 23 Writeup](./Day%2023/README.md), [Code](./Day%2023/day23.c)
+24. [Day 24 Writeup](./Day%2024/README.md), No code for today.
 
 Originally I had this in a monorepo, but I've decided to move all this to its own repo.
